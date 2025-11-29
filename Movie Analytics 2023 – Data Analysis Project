@@ -1,0 +1,70 @@
+
+
+## Project Overview  
+This project analyzes the performance of movies released in 2023 using key metrics such as Worldwide Gross, Domestic Gross, International Gross, and Release Groups.  
+The goal of this analysis is to identify the top-performing movies, understand revenue distribution, and analyze domestic vs international market trends.
+
+A complete analytics workflow was performed using **Excel, SQL, Power BI, and Tableau**.
+
+---
+
+##  Dataset Details  
+Columns included in the dataset:
+
+- Rank  
+- Release Group  
+- Worldwide Gross  
+- Domestic Gross  
+- Foreign %  
+- International Gross  
+- Year (2023)
+
+Dataset contains **movies released globally in 2023** along with their total revenue split.
+
+---
+
+##  Tools & Technologies Used  
+- **Excel** – Data cleaning, sorting, filtering, pivot analysis  
+- **SQL** – Querying top movies, aggregations, revenue splits  
+- **Power BI** – Visual dashboards for movie performance  
+- **Tableau** – Trend analysis & interactive visuals  
+
+---
+
+##  Key Analysis Performed  
+### ✔ 1. **Top 10 Movies by Worldwide Gross**  
+Identified highest-earning movies globally.
+
+### ✔ 2. **Domestic vs International Revenue Comparison**  
+Analyzed which movies earned more locally vs overseas.
+
+### ✔ 3. **Foreign % Analysis**  
+Found movies whose majority revenue came from international markets.
+
+### ✔ 4. **Release Group Performance**  
+Compared:  
+- Wide Release  
+- Limited Release  
+- Streaming Release Groups  
+
+### ✔ 5. **Revenue Trends for 2023**  
+Observed movie performance across genres and release strategies.
+
+---
+
+##  Dashboards Included (If applicable)  
+### **Power BI**  
+- Worldwide Gross Comparison  
+- Domestic vs International Pie Charts  
+- Top Grossing Movies Bar Chart  
+- Release Group Insights  
+
+### **Tableau**  
+- Interactive Revenue Trends  
+- Heatmap: Domestic vs International Impact  
+- Top 10 Worldwide Earners  
+
+---
+
+ 
+
